@@ -1,7 +1,7 @@
 {
-  "name": "littletiers",
+  "name": "jb-learning-heroku",
   "version": "1.0.0",
-  "description": "little tiers",
+  "description": "my first heroku app",
   "main": "http_server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
